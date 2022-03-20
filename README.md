@@ -1,8 +1,8 @@
 <!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
+![image](https://user-images.githubusercontent.com/100826315/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
 
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/RachaelSmith1?tab=repositories)
+[![160744959694494596](https://user-images.githubusercontent.com/100826315/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/RachaelSmith1?tab=repositories)
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/RachaelSmith1" alt="profile views"> •  
@@ -20,7 +20,7 @@
 I recently self-published <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a> to condense all the tacit knowledge developers need to succeed in our industry. <a href="https://codingcareer.circle.so/">Join our community</a>!
 
 <a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+  <img align="right" src="https://user-images.githubusercontent.com/100826315/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
 - See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
